@@ -39,8 +39,7 @@ The Executive Summary page provides a high-level overview of the business perfor
 - 📈 Sales Trend
 - 🌍 Regional Performance
 
-![Executive Summary](Executive Summary.png)
-
+![Executive Summary](Executive-Summary.png)
 ---
 
 ## 📦 Product Analysis
@@ -54,8 +53,7 @@ This page focuses on product performance and profitability.
 - Quantity Sold
 - Product Performance Comparison
 
-![Product Analysis](Product Analysis.png)
-
+![Product Analysis](Product-Analysis.png)
 ---
 
 ## 👥 Customer Analysis
@@ -69,8 +67,7 @@ This page analyzes customer behavior and purchasing patterns.
 - Customer Contribution
 - Regional Customer Analysis
 
-![Customer Analysis](Customer Analysis.png)
-
+![Customer Analysis](Customer-Analysis.png)
 ---
 
 ## 💡 Key Business Insights
