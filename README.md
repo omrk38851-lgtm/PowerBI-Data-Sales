@@ -84,8 +84,6 @@ This page analyzes customer behavior and purchasing patterns.
 
 ## 📂 Repository Contents
 
-- 📄 Sales Dashboard.pbix
-- 📊 Sales Data.xlsx
 - 🖼 Executive Summary.png
 - 🖼 Product Analysis.png
 - 🖼 Customer Analysis.png
